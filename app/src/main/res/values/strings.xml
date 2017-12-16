@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Resistor value</string>
+    <string name="Brown">Brown</string>
+    <string name="Red">Red</string>
+    <string name="Orange">Orange</string>
+    <string name="Yellow">Yellow</string>
+    <string name="Green">Green</string>
+    <string name="Blue">Blue</string>
+    <string name="Violet">Violet</string>
+    <string name="Gray">Gray</string>
+    <string name="White">White</string>
+    <string name="Black">Black</string>
+    <string name="Gold">Gold</string>
+    <string name="Silver">Silver</string>
+    <string name="No_Color">No Color</string>
+</resources>
